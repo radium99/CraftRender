@@ -1,0 +1,19 @@
+# Visual Studio Temporary Files
+.vs/
+*.user
+*.userosscache
+*.sln.docattachments
+
+# Build Output
+x64/
+x86/
+Debug/
+Release/
+bin/
+obj/
+
+# Common C++ intermediate files
+*.obj
+*.pdb
+*.ilk
+*.exe
